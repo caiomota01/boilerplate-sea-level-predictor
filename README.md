@@ -1,3 +1,3 @@
 # Sea Level Predictor
 
-This is the boilerplate for the Sea Level Predictor project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+Esse é o modelo de regressão para prever o nivel do mar, essa é a 3° Entrega realizando a ultima etapa do FreeCodeCamp.
